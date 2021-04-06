@@ -1,0 +1,26 @@
+
+body{
+    background: linear-gradient(to right,#90ee90,50%,#add8e6);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.gradient{
+    text-align: center;
+    font-family: 'New Tegomin', serif;
+
+}
+
+.colorpicker{ 
+    display: flex;
+    justify-content: center;
+}
+
+.cp{ 
+    margin: 1em;
+}
+#description{
+    margin: 10px;
+
+}
